@@ -2,7 +2,8 @@
 <h3 align="center">Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byeongbyeong&label=Profile%20views&color=0e75b6&style=flat" alt="byeongbyeong" /> </p>
-- data scientist who has insights into all data types.
+
+- Data Scientist who has insights into all kind of data types.
 
 - I think every deep ML/DL model should always be explainable.
 
