@@ -22,7 +22,7 @@
 
 ## Career
 <a href="https://www.mobis.co.kr/kr/index.do">  Hyundai Mobis </a> <br>
-Intern for an AI Engineer(R&D), 2022.12 ~ 2023.06 <br>
+Data Scientist intern(R&D), 2022.12 ~ 2023.06 <br>
 Optimized the operation of the annealing process of the **3CGL**(Continuous Galvanizing Line).
 
 
