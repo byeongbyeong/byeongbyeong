@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byeongbyeong&label=Profile%20views&color=0e75b6&style=flat" alt="byeongbyeong" /> </p>
 
 ## About Me
-**Hello, my name is Jisu Yeo. <br> I’m a senior at PNU(major. computer science and engineering).** <br>
+**Hello, my name is Byeongheon Kim. <br> Hanyang University(B.E. Automotive and Computer Engineering).** <br>
 
 
 - Data Scientist who has insights into all kind of data types.
