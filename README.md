@@ -24,8 +24,8 @@
 <a href="https://www.mobis.co.kr/kr/index.do">  Hyundai Mobis </a> <br>
 Data Scientist intern(R&D), 2022.12 ~ 2023.06 <br>
 - Real-time 'hairpin' properties prediction.(Regression)
-- Defective stator prediction.(Classification)
-- Power semi-conductor EDA
+- Defective 'stator' prediction.(Classification)
+- Power semi-conductor vacuum soldering data EDA
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
