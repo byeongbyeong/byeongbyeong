@@ -12,14 +12,19 @@
 - I think every deep ML/DL model should always be explainable.
 
 - 🔭 I’m currently working on [Rust_grammar](https://github.com/byeongbyeong/Rust_grammar)
-
-- 🌱 I’m currently learning **Rust**
   
 - 📝 I regularly write articles on [https://velog.io/@hon2b](https://velog.io/@hon2b)
 
 - 📫 How to reach me **kbh6008@naver.com**
 
 - 📄 Know about my experiences [https://www.notion.so/byeongheon/Resume-5fe74320b4eb4cf39184a9baed6d8009](https://www.notion.so/byeongheon/Resume-5fe74320b4eb4cf39184a9baed6d8009)
+
+
+## Career
+<a href="https://www.mobis.co.kr/kr/index.do">  Hyundai Mobis </a> <br>
+Intern for an AI Engineer(R&D), 2022.12 ~ 2023.06 <br>
+Optimized the operation of the annealing process of the **3CGL**(Continuous Galvanizing Line).
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
