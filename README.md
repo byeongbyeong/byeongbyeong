@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byeongbyeong&label=Profile%20views&color=0e75b6&style=flat" alt="byeongbyeong" /> </p>
 
-<div align="right">
-
 ## About Me
 **Hello, my name is Jisu Yeo. <br> I’m a senior at PNU(major. computer science and engineering).** <br>
 
