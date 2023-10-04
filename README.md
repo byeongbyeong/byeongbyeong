@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byeongbyeong&label=Profile%20views&color=0e75b6&style=flat" alt="byeongbyeong" /> </p>
 
 <div align="right">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbyeongbyeong&count_bg=%23C23EA9&title_bg=%23555555&icon=&icon_color=0e75b6&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbyeongbyeong&count_bg=%23C23EA9&title_bg=%23444444&icon=&icon_color=0e75b6&title=hits&edge_flat=false"/></a>
 </div>
 
 ## About Me
