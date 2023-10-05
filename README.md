@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Byeongheon</h1>
 <h3 align="center">Data Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=byeongbyeong&label=Profile%20views&color=0e75b6&style=flat" alt="byeongbyeong" /> </p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbyeongbyeong&count_bg=%233DC7C8&title_bg=%23555555&icon=pinboard.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## About Me
 **Hello, my name is Byeongheon Kim. <br> Hanyang University(B.E. Automotive and Computer Engineering).** <br>
