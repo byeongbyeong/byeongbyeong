@@ -4,18 +4,20 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbyeongbyeong&count_bg=%233DC7C8&title_bg=%23555555&icon=pinboard.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## About Me
-**Hello, my name is Byeongheon Kim. <br> Hanyang University(B.E. Automotive and Computer Engineering).** <br>
+**Hello, my name is HON2B. <br> Hanyang University(B.E. Automotive and Computer Engineering).** <br>
 
 
-- Data Scientist who has insights into all kind of data types.
+- Computer Vision AI Engineer at HD Hyundai, developing AI systems for the shipbuilding industry.
 
-- I think every deep ML/DL model should always be explainable.
+- Developing computer vision pipelines and exploring VLM-based images and video generation for industrial applications. 
 
-- 🔭 I’m currently working on [Rust_grammar](https://github.com/byeongbyeong/Rust_grammar)
+- Currently expanding research into AI-driven audio processing and intelligent mixing tools with JUCE.
+
+- 🔭 Here I would like to share [Rust_grammar](https://github.com/byeongbyeong/Rust_grammar)
   
-- 📝 I regularly write articles on [https://velog.io/@hon2b](https://velog.io/@hon2b)
+- 📝 I regularly test my audio processing tools and share the results on Instagram.
 
-- 📫 How to reach me **kbh6008@naver.com**
+- 📫 Business contact **kbh6008@naver.com**
 
 - 📄 Know about my experiences [https://www.notion.so/byeongheon/Resume-5fe74320b4eb4cf39184a9baed6d8009](https://www.notion.so/byeongheon/Resume-5fe74320b4eb4cf39184a9baed6d8009)
 
