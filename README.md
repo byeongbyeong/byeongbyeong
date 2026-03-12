@@ -16,15 +16,18 @@
 
 - 📫 Business contact **kbh6008@naver.com**
 
-- 📄 Know about my experiences [https://www.notion.so/byeongheon/Resume-5fe74320b4eb4cf39184a9baed6d8009](https://www.notion.so/byeongheon/Resume-5fe74320b4eb4cf39184a9baed6d8009)
-
-
 ## Career
 <a href="https://www.mobis.co.kr/kr/index.do">  Hyundai Mobis </a> <br>
 Data Scientist intern(R&D), 2022.12 ~ 2023.06 <br>
 - Real-time 'hairpin' properties prediction.(Regression)
 - Defective 'stator' prediction.(Classification)
 - Power semi-conductor vacuum soldering data EDA
+<a href="https://www.hd.com/kr/main">  HD Hyundai </a> <br>
+AI Researcher(R&D), 2024.12 ~ <br>
+- Development of a computer vision–based vehicle localization system in a PCTC vessel using panoramic camera and floor plan alignment
+- Development of a video retrieval pipeline for efficiently extracting valuable image data from large-scale video streams
+- Photorealistic image and video generation of rare industrial scenarios such as fire and smoke
+- Development of a computer vision–based ship coating defect detection system
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
