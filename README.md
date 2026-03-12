@@ -10,8 +10,8 @@
 
 - Currently expanding research into AI-driven audio processing and intelligent mixing tools with JUCE.
 
-- 🔭 Here I would like to share [Rust_grammar](https://github.com/byeongbyeong/Rust_grammar)
-  
+- 🔭 Here I would like to share [Beat2B_Plugin](https://github.com/byeongbyeong/Beat2B_Plugin)
+
 - 📝 I regularly test my audio processing tools and share the results on Instagram.
 
 - 📫 Business contact **kbh6008@naver.com**
