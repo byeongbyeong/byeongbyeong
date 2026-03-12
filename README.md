@@ -2,7 +2,7 @@
 <h3 align="center">AI/Audio Engineer</h3>
 
 ## About Me
-**Hello, my name is HON2B.
+**Hello, my name is HON2B.**
 
 - Computer Vision AI Engineer at HD Hyundai, developing AI systems for the shipbuilding industry.
 
@@ -22,6 +22,7 @@ Data Scientist intern(R&D), 2022.12 ~ 2023.06 <br>
 - Real-time 'hairpin' properties prediction.(Regression)
 - Defective 'stator' prediction.(Classification)
 - Power semi-conductor vacuum soldering data EDA
+
 <a href="https://www.hd.com/kr/main">  HD Hyundai </a> <br>
 AI Researcher(R&D), 2024.12 ~ <br>
 - Development of a computer vision–based vehicle localization system in a PCTC vessel using panoramic camera and floor plan alignment
