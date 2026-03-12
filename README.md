@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm HON2B</h1>
-<h3 align="center">Data Scientist</h3>
+<h3 align="center">AI/Audio Engineer</h3>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbyeongbyeong&count_bg=%233DC7C8&title_bg=%23555555&icon=pinboard.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## About Me
 **Hello, my name is HON2B. <br> Hanyang University(B.E. Automotive and Computer Engineering).** <br>
-
 
 - Computer Vision AI Engineer at HD Hyundai, developing AI systems for the shipbuilding industry.
 
