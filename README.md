@@ -12,8 +12,6 @@
 
 - 🔭 Here I would like to share [Beat2B_Plugin](https://github.com/byeongbyeong/Beat2B_Plugin)
 
-- 📝 I regularly test my audio processing tools and share the results on Instagram.
-
 - 📫 Business contact **kbh6008@naver.com**
 
 ## Career
