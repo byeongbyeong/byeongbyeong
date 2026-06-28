@@ -10,7 +10,7 @@
 
 - Currently expanding research into AI-driven audio processing and intelligent mixing tools with JUCE.
 
-- 🔭 Here I would like to share [Beat2B_Plugin](https://github.com/byeongbyeong/sori-mix)
+- 🔭 Here I would like to share [sori-mix](https://github.com/byeongbyeong/sori-mix)
 
 - 📫 Business contact **kbh6008@naver.com**
 
